@@ -1,5 +1,5 @@
-# 💫 About Me:
-Aspiring Web Developer | Enthusiastic Learner | Team Player
+# Aspiring Web Developer | Enthusiastic Learner | Team Player
+
 
 
 # 💻 Tech Stack:
